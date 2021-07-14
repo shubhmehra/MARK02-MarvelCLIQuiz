@@ -10,4 +10,9 @@ This fun CLI app I have made to check how much you know about marvel universe. ð
 - Highscore will be updated once you break it
 - New questions will be added soon
 
-  
+## Play Quiz ðŸŽ®
+
+Click on below link & press GREEN RUN button.
+Enter your name & you are good to go. 
+
+https://replit.com/@5hu6h4m/markTwo-MarvelUniverseQuiz-WithChalk?embed=1&output=1#index.js
